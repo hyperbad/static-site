@@ -54,15 +54,17 @@ const Bio = () => {
         }}
       />
       <p>
-        Clearinghouse for all things <strong>{author}</strong>.
+        <strong>{author}'s</strong> internet presence.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
-        </a>
+          You should follow him on Twitter.</a>          
+          <div><p>I've written tech stuff over at the <a href="https://cyberbabble.blog/author/chris/">Cyberbabble blog</a>.  
+		Have a look at my <a href="https://www.linkedin.com/in/chrisjaybrown/">LinkedIn profile</a>.</p></div>
       </p>
-		<p>I've written tech stuff over at the <a href="https://cyberbabble.blog/author/chris/">Cyberbabble blog</a></p>
-		<p>Have a look at my <a href="https://www.linkedin.com/in/chrisjaybrown/">LinkedIn profile</a></p>
+	
+  
     </div>
+    
   )
 }
 
