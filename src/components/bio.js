@@ -60,6 +60,8 @@ const Bio = () => {
           You should follow him on Twitter
         </a>
       </p>
+		<p>I've written tech stuff over at the <a href="https://cyberbabble.blog/author/chris/">Cyberbabble blog</a></p>
+		<p>Have a look at my <a href="https://www.linkedin.com/in/chrisjaybrown/">LinkedIn profile</a></p>
     </div>
   )
 }
