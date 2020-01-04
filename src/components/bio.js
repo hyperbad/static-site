@@ -58,8 +58,8 @@ const Bio = () => {
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
           You should follow him on Twitter.</a>          
-          <div><p>I've written tech stuff over at the <a href="https://cyberbabble.blog/author/chris/">Cyberbabble blog</a>.  
-		Have a look at my <a href="https://www.linkedin.com/in/chrisjaybrown/">LinkedIn profile</a>.</p></div>
+          <div><p>He's written tech-related stuff over at the <a href="https://cyberbabble.blog/author/chris/">Cyberbabble blog</a>.  
+		Have a look at his <a href="https://www.linkedin.com/in/chrisjaybrown/">LinkedIn profile</a>.</p></div>
       </p>
 	
   
