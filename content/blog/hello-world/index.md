@@ -1,22 +1,13 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+date: "2020-01-04T22:12:03.284Z"
+description: "Hello World 2020"
 ---
 
-This is my first post on my new fake blog! How exciting!
+I started this site as a way to keep up my technical chops in my personal time (can I still code?) and have central site that I _owned_. LinkedIn, etc are fine but I like a little more control over my internet presence. Who doesn't want to be a webmaster in 2020? I'm a bit of a masochist in that way ...
 
-I'm sure I'll write a lot more interesting things in the future.
+On to Technical Stuff!
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+I'm using a static site builder using [Gatsby](https://www.gatsbyjs.org/) and hosting the content with [GitHub Pages](https://pages.github.com/). Jeckyll is the better supported generator for Github Pages, but I specifically wanted to get my hands dirty with Gatsby.
+After some false starts, I found [this tutoria](https://jarednielsen.com/deploy-gatsbyjs-github-pages-user/) which helped me figure out the branching bit. I'll be working on this slowly but surely.
+Oh, using [VSCode](https://code.visualstudio.com/) to edit.
